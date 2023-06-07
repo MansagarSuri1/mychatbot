@@ -1,1 +1,2 @@
 # mychatbot
+This project is a Java chatbot application developed using Maven. The chatbot leverages Google's Program-ab library and integrates ALICE bot to generate responses to user questions. ALICE (Artificial Linguistic Internet Computer Entity) is an open-source chatbot development framework that uses AIML (Artificial Intelligence Markup Language) for defining conversational patterns and responses.
